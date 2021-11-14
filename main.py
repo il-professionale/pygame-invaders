@@ -1,5 +1,7 @@
 import pygame
 
+background_img = pygame.image.load("Images/espaceTerre.jpg")
+vaisseau_img = pygame.image.load("Images/vaisseau.png")
 
 class Game:
     screen = None
